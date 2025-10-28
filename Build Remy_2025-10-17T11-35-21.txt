@@ -1,0 +1,14 @@
+
+Showing Recent Errors Only
+
+Prepare build
+error: Multiple commands produce '/Users/keshavkrishnan/Library/Developer/Xcode/DerivedData/Remy-gkcyialmhzajhieupzrofowipqpm/Build/Products/Debug-iphonesimulator/Remy.app/Info.plist'
+    note: Target 'Remy' (project 'Remy') has copy command from '/Users/keshavkrishnan/Remy/Remy/Remy/Info.plist' to '/Users/keshavkrishnan/Library/Developer/Xcode/DerivedData/Remy-gkcyialmhzajhieupzrofowipqpm/Build/Products/Debug-iphonesimulator/Remy.app/Info.plist'
+    note: Target 'Remy' (project 'Remy') has process command with output '/Users/keshavkrishnan/Library/Developer/Xcode/DerivedData/Remy-gkcyialmhzajhieupzrofowipqpm/Build/Products/Debug-iphonesimulator/Remy.app/Info.plist'
+
+
+Multiple commands produce '/Users/keshavkrishnan/Library/Developer/Xcode/DerivedData/Remy-gkcyialmhzajhieupzrofowipqpm/Build/Products/Debug-iphonesimulator/Remy.app/Info.plist'
+
+
+
+Build failed    10/17/25, 11:35 AM    2.4 seconds

@@ -1,0 +1,23 @@
+// Configuration file for Remy
+// This is a TEMPLATE file - copy to Config.xcconfig and add your actual keys
+
+// ⚠️ IMPORTANT SECURITY NOTES:
+// 1. Copy this file to Config.xcconfig in the same directory
+// 2. Config.xcconfig is in .gitignore and should NEVER be committed
+// 3. Never share your actual API keys publicly
+// 4. For production, consider using environment-specific configs
+
+// OpenAI Configuration
+// Get your API key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY = your-openai-api-key-here
+
+// Supabase Configuration (Optional - currently hardcoded in SupabaseConfig.swift)
+// Get these from: https://app.supabase.com/project/_/settings/api
+SUPABASE_URL = https://your-project.supabase.co
+SUPABASE_ANON_KEY = your-supabase-anon-key-here
+
+// 📝 Setup Instructions:
+// 1. Copy this file: cp Config.xcconfig.template Config.xcconfig
+// 2. Replace the placeholder values with your actual API keys
+// 3. Build and run the project
+// 4. NEVER commit Config.xcconfig to version control
