@@ -86,3 +86,8 @@ Remy/Remy/Config/Config.xcconfig
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Exclude documentation .md files (keep CLAUDE.md)
+*.md
+!Remy/CLAUDE.md
+!Remy/Config/README.md
